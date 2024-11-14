@@ -1,0 +1,1 @@
+Since Heroku doesn't support GUI based applications, the user would need to run the Java code in it's own machine.
